@@ -1,0 +1,9 @@
+{
+  "id": "dapp-rook-arena",
+  "name": "Rook Arena",
+  "description": "On-chain competition platform on Lightchain AI. Three skill-based games — The Hunt, The Chamber, and The Gauntlet. Solve puzzles, answer trivia, and complete challenges to win LCAI prizes. Fully autonomous — rounds open, score, and pay winners automatically.",
+  "tags": ["GAMING", "AI"],
+  "iconSrc": "/images/dapp-item-logo/rook-arena.png",
+  "imageSrc": "/images/dapp-item-thumb/rook-arena.png",
+  "externalUrl": "https://rookarena.joffstrends.co.uk"
+}
