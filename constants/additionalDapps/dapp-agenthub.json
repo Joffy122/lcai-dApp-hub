@@ -1,9 +1,9 @@
 {
-  "id": "dapp-lightmarket",
-  "name": "LightMarket",
+  "id": "dapp-agenthub",
+  "name": "AgentHub",
   "description": "The first AI Agent Marketplace on Lightchain. Run on-chain AI agents powered by native LCAI inference — pay per use, get results instantly.",
   "tags": ["AI", "AGENTS", "MAINNET"],
   "iconSrc": "/images/dapp-item-logo/lightmarket.png",
   "imageSrc": "/images/dapp-item-thumb/lightmarket.png",
-  "externalUrl": "https://lightmarket.joffstrends.co.uk"
+  "externalUrl": "https://agenthub.joffstrends.co.uk"
 }
